@@ -9,7 +9,7 @@ Full-stack frameworks:
 - [RedwoodJS](https://github.com/themesberg/flowbite-react-template-redwoodjs)
 - [Laravel + Inertia](https://github.com/themesberg/flowbite-react-template-laravel)
 
-Single-page Application (SPA):
+Single-page application (SPA):
 
 - [Vite](https://github.com/themesberg/flowbite-react-template-vite)
 - [Parcel](https://github.com/themesberg/flowbite-react-template-parcel)
