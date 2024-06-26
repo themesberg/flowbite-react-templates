@@ -6,6 +6,7 @@ Full-stack frameworks:
 - [Remix](https://github.com/themesberg/flowbite-react-template-remix)
 - [Astro](https://github.com/themesberg/flowbite-react-template-astro)
 - [Gatsby](https://github.com/themesberg/flowbite-react-template-gatsby)
+- [AdonisJS](https://github.com/themesberg/flowbite-react-template-adonisjs)
 - [RedwoodJS](https://github.com/themesberg/flowbite-react-template-redwoodjs)
 - [Laravel + Inertia](https://github.com/themesberg/flowbite-react-template-laravel)
 
