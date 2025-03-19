@@ -1,17 +1,25 @@
-# An official list of Flowbite React templates:
+# An official list of Flowbite React templates
 
-Full-stack frameworks:
-
-- [Next.js](https://github.com/themesberg/flowbite-react-template-nextjs)
-- [Remix](https://github.com/themesberg/flowbite-react-template-remix)
-- [Astro](https://github.com/themesberg/flowbite-react-template-astro)
-- [Gatsby](https://github.com/themesberg/flowbite-react-template-gatsby)
 - [AdonisJS](https://github.com/themesberg/flowbite-react-template-adonisjs)
-- [RedwoodJS](https://github.com/themesberg/flowbite-react-template-redwoodjs)
-- [Laravel + Inertia](https://github.com/themesberg/flowbite-react-template-laravel)
-
-Single-page application (SPA):
-
-- [Vite](https://github.com/themesberg/flowbite-react-template-vite)
+- [Astro](https://github.com/themesberg/flowbite-react-template-astro)
+- [Blitz.js](https://github.com/themesberg/flowbite-react-template-blitzjs)
+- [Bun](https://github.com/themesberg/flowbite-react-template-bun)
+- [Farm](https://github.com/themesberg/flowbite-react-template-farm)
+- [Gatsby](https://github.com/themesberg/flowbite-react-template-gatsby)
+- [Laravel](https://github.com/themesberg/flowbite-react-template-laravel)
+- [Meteor.js](https://github.com/themesberg/flowbite-react-template-meteorjs)
+- [Modern.js](https://github.com/themesberg/flowbite-react-template-modernjs)
+- [Next.js](https://github.com/themesberg/flowbite-react-template-nextjs)
 - [Parcel](https://github.com/themesberg/flowbite-react-template-parcel)
-- [Create React App](https://github.com/themesberg/flowbite-react-template-cra)
+- [React Router](https://github.com/themesberg/flowbite-react-template-react-router)
+- [React Server](https://github.com/themesberg/flowbite-react-template-react-server)
+- [RedwoodJS](https://github.com/themesberg/flowbite-react-template-redwoodjs)
+- [Remix](https://github.com/themesberg/flowbite-react-template-remix)
+- [Rsbuild](https://github.com/themesberg/flowbite-react-template-rsbuild)
+- [Rspack](https://github.com/themesberg/flowbite-react-template-rspack)
+- [TanStack Router](https://github.com/themesberg/flowbite-react-template-tanstack-router)
+- [TanStack Start](https://github.com/themesberg/flowbite-react-template-tanstack-start)
+- [Vike](https://github.com/themesberg/flowbite-react-template-vike)
+- [Vite](https://github.com/themesberg/flowbite-react-template-vite)
+- [Waku](https://github.com/themesberg/flowbite-react-template-waku)
+- [Webpack](https://github.com/themesberg/flowbite-react-template-webpack)
